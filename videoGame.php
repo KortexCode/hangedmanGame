@@ -1,6 +1,6 @@
 <?php
 //Lista de palabras
-$possibleWord = ["Minecraft", "Tauni", "Luzdeluna", "Warcraft", "hermanito"];
+$possibleWord = ["javascript", "datos", "Aplicacion", "Warcraft", "software"];
 //Intentos
 const maxAttempts = 6;
 $attempts = 0;
